@@ -9,6 +9,7 @@ compatible Hermes (`~/.hermes/skills/`) **et** Claude Code (`~/.claude/skills/`)
 |---|---|
 | [`cold-email-grounded`](cold-email-grounded/) | Campagnes de cold email hyper-personnalisées : recherche par prospect → séquence ancrée sur un signal → validation → push Instantly **en pause**. Pilier 1 (acquisition), version « doux et propre ». |
 | [`skill-forge`](skill-forge/) | Le **réflexe** pour forger un bon skill à chaque fois : cadrer → écrire (anatomie + progressive disclosure) → relire (3 angles via Claude Code) → installer + tracer. À installer en premier. |
+| [`email-qa`](email-qa/) | La **relecture anti-gaffe** d'un email avant envoi (Claude Code = muscle qualité) : lint déterministe + audit de jugement (voix/marque, structure, conformité, anti AI-slop) → verdict PASS/FAIL + GATE go/no-go. Garde-fou entre la rédaction et le Sheet de validation. |
 
 ## Installer sur Hermes (VPS)
 
