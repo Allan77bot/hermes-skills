@@ -8,6 +8,7 @@ compatible Hermes (`~/.hermes/skills/`) **et** Claude Code (`~/.claude/skills/`)
 | Skill | Rôle |
 |---|---|
 | [`cold-email-grounded`](cold-email-grounded/) | Campagnes de cold email hyper-personnalisées : recherche par prospect → séquence ancrée sur un signal → validation → push Instantly **en pause**. Pilier 1 (acquisition), version « doux et propre ». |
+| [`skill-forge`](skill-forge/) | Le **réflexe** pour forger un bon skill à chaque fois : cadrer → écrire (anatomie + progressive disclosure) → relire (3 angles via Claude Code) → installer + tracer. À installer en premier. |
 
 ## Installer sur Hermes (VPS)
 
