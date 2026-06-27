@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Données / sorties locales (jamais de leads ni de mails dans le repo)
+*.csv
+emails*.json
+leads*.json
+graphify-out/
